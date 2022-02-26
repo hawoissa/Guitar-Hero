@@ -1,4 +1,4 @@
-# Guitar-Hero
+# Guitar-Keyboard
 Guitar Hero turns a computer keyboard to a music making instrument.
 
 
